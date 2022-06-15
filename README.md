@@ -1,9 +1,6 @@
 # Group-Adjustment-Algorithm
 
-Your task is to write the group adjustment method below. There are some unimplemented unit_tests at the bottom which also need implementation. Your solution can be pure python, pure NumPy, pure Pandas or any combination of the three.  There are multiple ways of solving this problem, be creative, use comments to explain your code.
-
-# Group Adjust Method
-The algorithm needs to do the following:
+Your task is to write the group adjustment method below. The algorithm needs to do the following:
 
 1.) For each group-list provided, calculate the means of the values for each unique group.
 
